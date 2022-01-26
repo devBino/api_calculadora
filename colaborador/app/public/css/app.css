@@ -1,0 +1,21 @@
+body{
+    background-color: #dddddd;
+}
+.dv-login, .dv-calculadora{
+    margin-top: 15%;
+    width: 40%;
+    border: 1px solid #f1f1f1;
+    border-radius: 5px;
+    box-shadow: #696969;
+    background-color: #fff;
+}
+.dv-login h1, .dv-calculadora h1{
+    font-size: 15pt;
+    font-weight: bold;
+    color: #696969;
+}
+
+.dv-calculadora{
+    margin-top: 5% !important;
+    width: 50% !important;
+}

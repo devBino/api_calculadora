@@ -1,0 +1,34 @@
+body{
+    background-color: #dddddd;
+}
+.dv-login, .dv-calculadora, .dv-msg-erro, .dv-sistema{
+    margin-top: 15%;
+    width: 40%;
+    border: 1px solid #f1f1f1;
+    border-radius: 5px;
+    box-shadow: #696969;
+    background-color: #fff;
+}
+
+.dv-calculadora, .dv-msg-erro, .dv-sistema{
+    margin-top: 5% !important;
+    width: 50% !important;
+}
+
+.dv-sistema{
+    width: 70% !important;
+}
+
+.dv-login h1, .dv-calculadora h1{
+    font-size: 15pt;
+    font-weight: bold;
+    color: #696969;
+}
+
+.dv-msg-erro p{
+    text-align: center;
+}
+
+.img-remove{
+    width: 20px;
+}
