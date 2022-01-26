@@ -16,5 +16,5 @@ uma em nível Admin e outra em nível colaborador.</p>
   
   <li align="justify">&nbsp;&nbsp;&nbsp;Api Rest feita em NodeJs integrando sistemas do colaborador e admin...</li>
   <li align="justify">&nbsp;&nbsp;&nbsp;Sistema do colaborador feito em NodeJs, enviando os parâmetros dos cálculos...</li>
-  <li align="justify">&nbsp;&nbsp;&nbsp;Sistema do admin, feito em PHP Codeigniter 3, onde se pode listar os cálculos enviados pelos colavoradores...</li>
+  <li align="justify">&nbsp;&nbsp;&nbsp;Sistema do admin, feito em PHP Codeigniter 3, onde se pode listar os cálculos enviados pelos colaboradores...</li>
 
