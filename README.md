@@ -1,4 +1,4 @@
-# api_calculadora
+# api_calculadora &#129299; &#129299; &#129299;
 
 <p align="justify">Projeto conceitual, realizado há um tempo para fins de praticas, 
 o objetivo principal é que uma API Rest criada em NodeJs sirva duas aplicações,
